@@ -17,6 +17,11 @@ const Header = () => {
                 Cart
               </Link>
             </li>
+            <li>
+              <Link className="btn btn-ghost rounded-btn" href="/signin">
+                Sign In
+              </Link>
+            </li>
           </ul>
         </div>
       </nav>
